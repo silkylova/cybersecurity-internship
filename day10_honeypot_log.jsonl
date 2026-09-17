@@ -1,0 +1,6 @@
+{"time": "2026-09-17T14:52:06.523601", "ip": "127.0.0.1", "path": "/free-invoice-download.pdf.exe", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0", "referer": "-"}
+{"time": "2026-09-17T14:52:06.529389", "ip": "127.0.0.1", "path": "/hr-bonus-form?ref=email", "agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605.1.15", "referer": "-"}
+{"time": "2026-09-17T14:52:06.534850", "ip": "127.0.0.1", "path": "/software-update.zip", "agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) Mobile/21F90", "referer": "http://intranet-portal.example.com/news"}
+{"time": "2026-09-17T14:52:06.539927", "ip": "127.0.0.1", "path": "/software-update.zip", "agent": "curl/8.4.0", "referer": "-"}
+{"time": "2026-09-17T14:52:06.545196", "ip": "127.0.0.1", "path": "/free-invoice-download.pdf.exe", "agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/128.0", "referer": "http://intranet-portal.example.com/news"}
+{"time": "2026-09-17T14:52:06.550010", "ip": "127.0.0.1", "path": "/hr-bonus-form?ref=email", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Edge/128.0", "referer": "-"}

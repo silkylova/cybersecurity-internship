@@ -1,0 +1,17 @@
+{
+    "incident_metadata": {
+        "type": "phishing",
+        "severity": "HIGH",
+        "user": "riya@sqrock.com"
+    },
+    "actions_taken": [
+        "LOCK account: riya@sqrock.com",
+        "REVOKE all active sessions for riya@sqrock.com",
+        "NOTIFY SOC team via emergency channel",
+        "PRESERVE authentication and mail logs for forensics",
+        "QUARANTINE malicious email from all inboxes",
+        "BLOCK sender domain at email gateway",
+        "SCAN attachments in sandbox environment"
+    ],
+    "timestamp": "2026-09-17T18:45:45.547228"
+}

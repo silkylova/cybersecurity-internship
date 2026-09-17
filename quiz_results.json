@@ -1,0 +1,26 @@
+{
+    "final_score": 4,
+    "total_questions": 4,
+    "details": [
+        {
+            "question": "An email asks you to verify your password via a link. You should:",
+            "user_answer": "B",
+            "correct": true
+        },
+        {
+            "question": "You find a USB drive in the parking lot. You should:",
+            "user_answer": "B",
+            "correct": true
+        },
+        {
+            "question": "A recruiter connects on LinkedIn. They have 0 posts and no profile picture. This is likely:",
+            "user_answer": "C",
+            "correct": true
+        },
+        {
+            "question": "You visit a trusted industry news site, but your browser blocks a hidden background script. This is likely:",
+            "user_answer": "A",
+            "correct": true
+        }
+    ]
+}

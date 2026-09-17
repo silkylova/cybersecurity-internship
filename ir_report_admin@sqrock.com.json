@@ -1,0 +1,16 @@
+{
+    "incident_metadata": {
+        "type": "suspicious_email_rule",
+        "severity": "CRITICAL",
+        "user": "admin@sqrock.com"
+    },
+    "actions_taken": [
+        "LOCK account: admin@sqrock.com",
+        "REVOKE all active sessions for admin@sqrock.com",
+        "NOTIFY SOC team via emergency channel",
+        "PRESERVE authentication and mail logs for forensics",
+        "DELETE unauthorized inbox rules for admin@sqrock.com",
+        "SCAN mailbox for exfiltrated sensitive data"
+    ],
+    "timestamp": "2026-09-17T18:45:45.547875"
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "BRUTE_FORCE_DETECTED",
+        "severity": "HIGH",
+        "user": "admin",
+        "details": "3 failed login attempts detected from IP(s): 45.33.32.156"
+    },
+    {
+        "type": "SUSPICIOUS_EMAIL_RULE",
+        "severity": "CRITICAL",
+        "user": "admin",
+        "details": "Rule 'forward_all' created at 2026-09-17 02:35:00 forwarding to external destination: attacker@exfiltrate-data.com"
+    },
+    {
+        "type": "SUSPICIOUS_EMAIL_RULE",
+        "severity": "MEDIUM",
+        "user": "john",
+        "details": "Rule 'move_to_trash' created at 2026-09-17 09:05:11"
+    },
+    {
+        "type": "OFF_HOURS_SUCCESSFUL_LOGIN",
+        "severity": "MEDIUM",
+        "user": "admin",
+        "details": "Successful login recorded at off-hours time (2026-09-17 02:34:16) from IP 45.33.32.156"
+    },
+    {
+        "type": "OFF_HOURS_SUCCESSFUL_LOGIN",
+        "severity": "MEDIUM",
+        "user": "ceo",
+        "details": "Successful login recorded at off-hours time (2026-09-17 03:12:00) from IP 185.220.101.5"
+    }
+]
